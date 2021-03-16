@@ -6,8 +6,8 @@ Wireless Local Area Networks (WLANs) (or WiFi) are increasingly integrated into 
 
 ## Features
 
-- WiFi connection status and all accept-point details
-- Access Point (AP) detail: RSS (dBm), SSID, MAC, Channel Frequency, Protocol Security, Encrytion Algorithms, Max Rate, Beacon 
+- WiFi connection status and details of connected device 
+- Access Point (AP) details: RSS (dBm), SSID, MAC, Channel Frequency, Protocol Security, Encrytion Algorithms, Max Rate, Beacon 
 - Each AP quality by our algorithm and **recommend the best AP**
 - Filter spectific AP
 - Pretty display in chart, 2.4G and 5G separation
