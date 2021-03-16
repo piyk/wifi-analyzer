@@ -21,5 +21,5 @@ Wireless Local Area Networks (WLANs) (or WiFi) are increasingly integrated into 
  Piyawad Kasabai - piyawad dot k (at) udru dot ac dot th  
  Jirapat Punna   - jirapat dot udth (at) gmail dot com
  
-## Donate]
+## Donate
 Bitcoin address - 1Lp9AxuFJo6CAfRi2sTiUkeqr5nWk7825N
