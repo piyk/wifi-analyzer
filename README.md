@@ -10,7 +10,7 @@ Wireless Local Area Networks (WLANs) (or WiFi) are increasingly integrated into 
 - Access Point (AP) details: RSS (dBm), SSID, MAC, Channel Frequency, Protocol Security, Encryption Algorithms, Max Rate, Beacon 
 - Each AP quality calculated by our algorithm and to **recommend the best AP**
 - Filter a specific AP
-- Pretty display in chart, 2.4G and 5G separation
+- Real-time charts, 2.4G and 5G separation
 
 ## Some Screenshot
 ![2021-03-13 22_34_23-Wireless Networks Analyzer](https://user-images.githubusercontent.com/42693110/111323177-33fa6480-869c-11eb-9c5c-e3a4e9284429.png)
